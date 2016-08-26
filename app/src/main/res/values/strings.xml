@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Open Weather</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="load_data">LOAD</string>
+    <string name="list">LIST</string>
+    <string name="title_activity_list">Open Weather</string>
+    <string name="srno">Sr NO</string>
+    <string name="time">Time</string>
+    <string name="temp">Tempiratue</string>
+    <string name="description">Description</string>
+    <string name="humidity">Humidity</string>
+
+
+
+</resources>
